@@ -10,8 +10,8 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=avinash201199&color=red)&nbsp;
-[![GitHub avinash201199](https://img.shields.io/github/followers/avinash201199?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=heygaurav77&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/heygaurav77?label=Followers&style=social)](https://github.com/heygaurav77)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Hello everyone,I'm 2028 pass out graduate with CS(AI/ML). I enjoy collaborating with people on works of similar interest.
