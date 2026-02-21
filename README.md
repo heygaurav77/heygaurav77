@@ -1,82 +1,109 @@
-<h1 align="center">Hi, I'm Gaurav Paul</h1>
+### Hello World, I'm Gaurav Paul 👋  
+
+-----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Developer;Upcoming+GSoC+Contributor;Sumer_Contributor;Exploring+Applied+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+%26+Systems+Developer;GSoC+2026+Aspirant;Open+Source+Contributor;Rust+%7C+Go+%7C+Distributed+Systems;Building+Scalable+Systems+⚡" />
 </p>
 
+-----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heygaurav77&label=Profile%20views&color=0e75b6&style=flat" alt="heygaurav77" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=heygaurav77&color=blue)&nbsp;
+[![GitHub heygaurav77](https://img.shields.io/github/followers/heygaurav77?label=follow&style=social)](https://github.com/heygaurav77)
 
-- 🔭 I’m currently working on **GSoC 2026 Preparations and Systems Programming**
-- 🎥 I document my coding journey and "build sh*t" at **[Your Blog/Link Here]**
-- 🌱 I’m currently learning **Rust, Zig and Advanced Go**
-- 💻 All of my projects are available at [github.com/heygaurav77](https://github.com/heygaurav77)
-- 📝 I regularly write articles on **[Your Blog Link]**
-- 💬 Ask me about **Go, Python, Rust, and Backend Architecture**
-- 📫 How to reach me **gauravpaul@example.com**
+---
 
-<h1 align="center">Hi, I'm Gaurav Paul</h1>
+## 👨🏻‍💻 About Me  
+
+💡 Backend & Systems Developer passionate about building scalable and distributed systems.  
+
+🚀 Preparing for **GSoC 2026** with focus on deep open-source contributions.  
+
+🦀 Currently exploring **Rust, Advanced Go, Zig & System Design**  
+
+🧠 Interested in:
+- Distributed Systems  
+- OS & Low-Level Programming  
+- Backend Architecture  
+- Applied AI Systems  
+
+📈 Building in public & documenting my journey.  
+
+---
+
+## 🔥 Current Focus  
+
+- 🏗️ Contributing to Open Source  
+- ⚙️ Writing production-grade Go services  
+- 🦀 Systems programming in Rust  
+- 🧩 Solving DSA daily  
+- 📚 Deep diving into backend architecture  
+
+---
+
+## 📫 Connect With Me  
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:gauravpaul@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
+---
+
+# 🛠️ Tech Stack  
+
+## 💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/>
+</p>
+
+## ⚙️ Backend & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+</p>
+
+---
+
+# 🚀 Featured Projects  
+
+| Project | Description | Tech |
+|----------|------------|------|
+| ⚡ Distributed Key-Value Store | High performance concurrent KV store | Go |
+| 🦀 Rust CLI Tool | Systems utility tool | Rust |
+| 🔐 Auth Microservice | JWT based scalable auth system | Go + PostgreSQL |
+| 📊 Analytics Engine | Backend analytics processing | Go |
+
+(Replace with your actual repos)
+
+---
+
+# 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Developer;Upcoming+GSoC+Contributor;Sumer_Contributor;Exploring+Applied+AI" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heygaurav77&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heygaurav77&show_icons=true&theme=dark" width="48%" />
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heygaurav77&label=Profile%20views&color=0e75b6&style=flat" alt="heygaurav77" /> </p>
-
-- 🔭 I’m currently working on **GSoC 2026 Preparations and Systems Programming**
-- 🎥 I document my coding journey and "build sh*t" at **[Your Blog/Link Here]**
-- 🌱 I’m currently learning **Rust, Zig and Advanced Go**
-- 💻 All of my projects are available at [github.com/heygaurav77](https://github.com/heygaurav77)
-- 📝 I regularly write articles on **[Your Blog Link]**
-- 💬 Ask me about **Go, Python, Rust, and Backend Architecture**
-- 📫 How to reach me **gauravpaul@example.com**
-
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gaurav Paul" height="30" width="40" /></a>
-<a href="https://twitter.com/YOUR_TWITTER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gaurav Paul" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygaurav77&layout=compact&theme=dark" width="50%" />
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-<!-- MERN STACK -->
-<a href="https://mongodb.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+---
 
-<!-- MOBILE & LUA -->
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-<a href="https://www.lua.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
+## 🎯 2026 Goals  
 
-<!-- DEVOPS, K8S & PIPELINES -->
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://github.com/features/actions" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="githubactions" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+- ✅ Become GSoC Contributor  
+- ✅ Contribute 100+ Open Source PRs  
+- ✅ Build production-ready distributed system  
+- ✅ Crack top backend internship  
 
-<!-- LANGUAGES -->
-<a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
-</p>
+---
 
-### GitHub Stats:
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heygaurav77&theme=dark&hide_border=false" alt="heygaurav77" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=heygaurav77&show_icons=true&theme=dark&hide_border=false" alt="heygaurav77" />
-</p>
-
-### GitHub Stats:
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heygaurav77&theme=dark&hide_border=false" alt="heygaurav77" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=heygaurav77&show_icons=true&theme=dark&hide_border=false" alt="heygaurav77" />
-</p>
+⭐ If you like my work, consider following me!
