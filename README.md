@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+%26+Systems+Developer;GSoC+2026+Aspirant;Open+Source+Contributor;Rust+%7C+Go+%7C+Distributed+Systems;Building+Scalable+Systems+⚡" />
+  <img src="https://raw.githubusercontent.com/heygaurav77/heygaurav77/main/banner.jpg" width="100%" />
 </p>
 
 -----
