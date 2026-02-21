@@ -95,20 +95,16 @@
 </p>
 
 
+## 📊 GitHub Stats
 
-<h1 align="center">Github Stats</h1>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heygaurav77&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heygaurav77&show_icons=true&theme=dark" width="48%" />
+</p>
 
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- </div>
- 
- 
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
-<br>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygaurav77&layout=compact&theme=dark" width="50%" />
+</p>
 
 
 
