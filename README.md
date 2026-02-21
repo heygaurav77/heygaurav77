@@ -3,7 +3,7 @@
 -----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heygaurav77/heygaurav77/main/banner.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/heygaurav77/heygaurav77/main/banner.jpg" width="100%" style="border-radius:10px;" />
 </p>
 
 -----
