@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Paul</h1>
+<h1 align="center">Hi, I'm Gaurav Paul</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Passionate+developer+from+India;GSoC+2026+Aspirant;MERN+Stack+Developer;React+Native+%26+Swift+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
