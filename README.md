@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gaurav Paul</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Developer;GSoC+2026+Applicant;Open+Source+Contributor;Exploring+Applied+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Developer;Upcoming+GSoC+Contributor;Sumer_Contributor;Exploring+Applied+AI" />
 </p>
 
 
