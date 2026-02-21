@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Gaurav Paul</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=435&lines=Passionate+developer+from+India;GSoC+2026+Aspirant;MERN+Stack+Developer;iOS+Dev;DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Backend+%26+Systems+Developer;GSoC+2026+Applicant;Open+Source+Contributor;Exploring+Applied+AI" />
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heygaurav77&label=Profile%20views&color=0e75b6&style=flat" alt="heygaurav77" /> </p>
 
