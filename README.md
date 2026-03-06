@@ -14,7 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/heygaurav77?label=Followers&style=social)](https://github.com/heygaurav77)
 ### 👨🏻‍💻 &nbsp;About Me
 
-&nbsp; Hello everyone,I'm 2028 pass out graduate with CS(AI/ML). I enjoy collaborating with people on works of similar interest.
+&nbsp;Hello everyone,I'm pursuing CS with data Science. I enjoy collaborating with people on works of similar interest.
 &nbsp;I'm on track to help tech minds by sharing my expertise , resources and guidance.\
 &nbsp;Apart from technical interests, I like reading books,watching movies, playing Chess and openworld games.\
 &nbsp;Feel free to reach out to me for general consulting, or discussions \
